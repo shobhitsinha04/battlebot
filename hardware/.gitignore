@@ -1,0 +1,76 @@
+# =========================
+# KiCad Project Files
+# =========================
+
+# Local settings (machine-specific)
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Autosave / backup
+*-backup.*
+*_autosave-*
+*.bak
+*.bck
+
+# Lock files
+*.lck
+
+# =========================
+# Generated Outputs
+# =========================
+
+# Plot / fabrication outputs
+*.gbr
+*.gbrjob
+*.drl
+*.rpt
+*.pos
+*.csv
+*.svg
+*.pdf
+*.plt
+*.ps
+*.eps
+*.zip
+
+# 3D exports
+*.step
+*.stp
+*.wrl
+
+# BOM exports
+*bom*.csv
+*bom*.xls
+*bom*.xlsx
+
+# Netlists (generated)
+*.net
+*.xml
+
+# IPC-2581
+*.ipc
+
+# =========================
+# Simulation
+# =========================
+*.cir
+*.raw
+*.spice
+
+# =========================
+# OS / Editor Junk
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# =========================
+# Panelization / Temp Files
+# =========================
+panelized-*
